@@ -25,6 +25,7 @@
     <Compile Include="OreskossTCG.py" />
     <Compile Include="OreskossTCG\app.py" />
     <Compile Include="OreskossTCG\models.py" />
+    <Compile Include="OreskossTCG\__init__.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="OreskossTCG\" />
